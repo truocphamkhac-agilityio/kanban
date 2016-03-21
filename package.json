@@ -1,0 +1,28 @@
+{
+  "name": "kanban",
+  "version": "1.0.0",
+  "description": "Training react - Kanban",
+  "main": "app/index.js",
+  "dependencies": {
+    "webpack": "^1.12.14"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/truocphamkhac/kanban.git"
+  },
+  "keywords": [
+    "react",
+    "webpack",
+    "kanban"
+  ],
+  "author": "Truoc Pham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/truocphamkhac/kanban/issues"
+  },
+  "homepage": "https://github.com/truocphamkhac/kanban#readme"
+}
