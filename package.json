@@ -13,6 +13,9 @@
     "webpack": "^1.12.14"
   },
   "devDependencies": {
+    "alt": "^0.18.4",
+    "alt-container": "^1.0.2",
+    "alt-utils": "^1.0.0",
     "babel-core": "^6.7.4",
     "babel-loader": "^6.2.4",
     "babel-plugin-react-require": "^2.1.0",
