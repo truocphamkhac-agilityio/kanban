@@ -1,2 +1,0 @@
-# kanban
-Training react - Kanban

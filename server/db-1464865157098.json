@@ -1,0 +1,19 @@
+{
+  "lanes": [
+    {
+      "id": 1,
+      "name": "Training",
+      "notes": [
+        {
+          "id": 1,
+          "task": "React"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Project",
+      "notes": []
+    }
+  ]
+}

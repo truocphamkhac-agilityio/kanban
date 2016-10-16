@@ -1,0 +1,10 @@
+{
+  "lanes": [
+    {
+      "name": "New Lane",
+      "editing": false,
+      "id": 1,
+      notes: []
+    }
+  ]
+}

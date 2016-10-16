@@ -1,0 +1,6 @@
+{
+    "env": "dev",
+    "database": {
+        "url": "http://localhost:3000"
+    }
+}
